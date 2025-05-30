@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Internal Updates</title>
+    <link>https://yourdomain.com/updates</link>
+    <description>Internal IT product feed</description>
+
+    <item>
+      <title>New Firewall Installed</title>
+      <link>https://yourdomain.com/updates/firewall</link>
+      <description>Fortinet firewalls have been deployed company-wide.</description>
+      <pubDate>Fri, 31 May 2025 15:00:00 GMT</pubDate>
+      <guid>https://yourdomain.com/updates/firewall</guid>
+    </item>
+
+  </channel>
+</rss>
